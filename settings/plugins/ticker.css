@@ -1,0 +1,141 @@
+#NewsFeedTicker2 
+{
+   -moz-box-shadow: 3px 3px 0px #000000;
+   -webkit-box-shadow: 3px 3px 0px #000000;
+   box-shadow: 3px 3px 0px #000000;
+}
+#NewsFeedTicker2
+{
+   padding: 8px;
+}
+#NewsFeedTicker2 .headline
+{
+   position: absolute;
+   height: 386px;
+   margin: 0 0 8px 0;
+   top: 396px;
+   overflow: hidden;
+   font-family: Tahoma;
+   font-size: 15px;
+   color: white;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+}
+#NewsFeedTicker2 h4
+{
+   margin-top: .5em;
+   margin-bottom: .25em;
+   font-family: Tahoma;
+   font-size: 19px;
+   color: white;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+}
+#NewsFeedTicker2 h4 a
+{
+   color: white;
+   text-decoration: none;
+}
+#NewsFeedTicker2 .publication-date
+{
+   margin-bottom: 0px;
+   font-family: Tahoma;
+   font-size: 13px;
+   color: red;
+}
+#NewsFeedTicker2 .news-wait
+{
+   position: relative;
+   top: 30%;
+   left: 50%;
+   margin-left: -10px;
+   z-index: 4;
+}
+#NewsFeedTicker2
+{
+   position: relative;
+   overflow: hidden;
+   border: 1px #DEB887 groove;
+   background-color: #006666;
+   left: 0px;
+   top: 0px;
+   //width: 280px;
+   height: 520px;
+   z-index: 0;
+}
+
+
+#NewsFeedTicker1
+{
+   -moz-box-shadow: 3px 3px 0px #000000;
+   -webkit-box-shadow: 3px 3px 0px #000000;
+   box-shadow: 3px 3px 0px #000000;
+}
+
+#NewsFeedTicker1
+{
+   padding: 8px;
+}
+#NewsFeedTicker1 .headline
+{
+   position: absolute;
+   height: 386px;
+   margin: 0 0 8px 0;
+   top: 396px;
+   overflow: hidden;
+   font-family: Tahoma;
+   font-size: 16px;
+   color: #FFFF00;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+
+}
+#NewsFeedTicker1 h4
+{
+   margin-top: .5em;
+   margin-bottom: .25em;
+   font-family: Tahoma;
+   font-size: 16px;
+   color: #FFFF00;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+}
+#NewsFeedTicker1 h4 a
+{
+   color: #FFFF00;
+   text-decoration: none;
+}
+#NewsFeedTicker1 .publication-date
+{
+   margin-bottom: 0px;
+   font-family: Tahoma;
+   font-size: 13px;
+   color: #FFFFFF;
+   font-style: italic;
+ 
+}
+#NewsFeedTicker1 .news-wait
+{
+   position: absolute;
+   top: 30%;
+   left: 50%;
+   margin-left: -10px;
+   z-index: 4;
+}
+#NewsFeedTicker1
+{
+   position: relative;
+   overflow: hidden;
+   border: 1px #DEB887 groove;
+   background-color: #006666;
+   left: 0px;
+   top: 10px;
+   width: 760px;
+   height: 120px;
+   z-index: 0;
+   
+}
